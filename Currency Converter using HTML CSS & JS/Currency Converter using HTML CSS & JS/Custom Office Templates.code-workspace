@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "Custom Office Templates",
+			"path": "../../../OneDrive/Documents/Custom Office Templates"
+		},
+		{
+			"name": "Currency-Converter-main",
+			"path": "../../Currency-Converter-main"
+		},
+		{
+			"name": "currency-convertor-main",
+			"path": "../../currency-convertor-main"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Currency-Converter-main"
+	}
+}
